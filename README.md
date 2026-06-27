@@ -14,7 +14,7 @@ SmartRetail adalah aplikasi manajemen toko ritel berbasis web yang mengimplement
 ## Tautan Eksternal Proyek
 * **Papan Kerja Trello:** [https://trello.com/invite/b/6a2a8a66e6b3c193a74e0f7a/ATTI5086cecad4d388a9e1aa15435d0cd35cE48B0434/kelompok-2-pemweb2]
 * **wireframe :** [https://balsamiq.cloud/sb2qg9x/pljki1]
-* **Dokumentasi API (Postman Web):** []
+* **Dokumentasi API (Postman Web):** [Masukkan Link Postman Collection jika ada]
 
 ---
 
